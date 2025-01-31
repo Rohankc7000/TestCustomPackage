@@ -1,0 +1,10 @@
+{
+    "name": "com.rohan.TestCustomPackage",
+    "version": "1.0.0",
+    "displayName": "Test Custom Package",
+    "description": "This is simple custom package made by Rohan Dada",
+    "unity": "2021.3.41f1",
+    "author": {
+        "name": "Rohan"
+    }
+}
