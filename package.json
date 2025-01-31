@@ -2,9 +2,13 @@
     "name": "com.rohan.TestCustomPackage",
     "version": "1.0.0",
     "displayName": "Test Custom Package",
-    "description": "This is simple custom package made by Rohan Dada",
-    "unity": "2021.3.41f1",
+    "description": "This is a simple custom package made by Rohan Dada.",
+    "unity": "2021.3",
     "author": {
-        "name": "Rohan"
-    }
+        "name": "Rohan KC",
+        "email": "rohankc700@gmail.com",
+        "url": "https://www.facebook.com/rohan.kecy.9/"
+    },
+    "keywords": ["custom", "package", "unity"],
+    "documentationUrl": "https://docs.unity3d.com/Manual/CustomPackages.html"
 }
