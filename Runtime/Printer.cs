@@ -6,11 +6,12 @@ namespace com.Rohan.TestCustomPackage
 {
     public class Printer : MonoBehaviour
     {
-        public string Name;
+        public string SanamGeda;
 
-        public void Print(string name)
+        [ContextMenu("Print")]
+        public void Print()
         {
-            if (!string.IsNullOrEmpty(name))
+            if (!string.IsNullOrEmpty(SanamGeda))
                 Debug.Log(name);
         }
     }
